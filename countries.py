@@ -10,7 +10,7 @@ print(countries)
 '''
 
 for country in countries:
-    if 'd' in country:
+    if 'g' in country:
         print(country, end=" ")
 '''
 for country in countries:
