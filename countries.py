@@ -1,4 +1,4 @@
-countries= ["uganda", "kenya", "rwanda", "sudan"]
+countries= ["uganda", "kenya", "rwanda", "sudan", "niger"]
 '''
 a=countries.copy()
 print("original list : ", countries)
