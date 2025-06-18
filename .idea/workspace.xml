@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d787e175-375d-47cf-bb3c-dcc864f3ca80" name="Changes" comment="add">
+    <list default="true" id="d787e175-375d-47cf-bb3c-dcc864f3ca80" name="Changes" comment="exe">
+      <change afterPath="$PROJECT_DIR$/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict_exe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,27 +26,78 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;searchQuery&quot;: &quot;commit&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;NsubugaCollins&quot;
+    },
+    {
+      &quot;searchQuery&quot;: &quot;commit&quot;,
+      &quot;assignee&quot;: &quot;NsubugaCollins&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NsubugaCollins/Nsubuga-Collins&quot;,
+    &quot;accountId&quot;: &quot;fd457c83-d2e9-4f19-8585-265d6a796a53&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2xMS2wLsng0q6mDDP5BGDVwLNvA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Atm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.countries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grade.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Atm.executor": "Run",
+    "Python.abstract.executor": "Run",
+    "Python.assignment2.executor": "Run",
+    "Python.back_Account.executor": "Run",
+    "Python.car.executor": "Run",
+    "Python.cipher.executor": "Run",
+    "Python.countries.executor": "Run",
+    "Python.dict.executor": "Run",
+    "Python.dict_exe.executor": "Run",
+    "Python.dispatch.executor": "Run",
+    "Python.exe2.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.func.executor": "Run",
+    "Python.game.executor": "Run",
+    "Python.grade.executor": "Run",
+    "Python.hang_game.executor": "Run",
+    "Python.inheritance.executor": "Run",
+    "Python.inventory.executor": "Run",
+    "Python.kwags.executor": "Run",
+    "Python.linear_regression.executor": "Run",
+    "Python.multipleInheritence.executor": "Run",
+    "Python.multiple_if.executor": "Run",
+    "Python.nested_dict.executor": "Run",
+    "Python.overload.executor": "Run",
+    "Python.paint.executor": "Run",
+    "Python.poly.executor": "Run",
+    "Python.prime_checker.executor": "Run",
+    "Python.random.executor": "Run",
+    "Python.regress.executor": "Run",
+    "Python.select.executor": "Run",
+    "Python.solve.executor": "Run",
+    "Python.try.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +129,87 @@
       <option name="project" value="LOCAL" />
       <updated>1747816742621</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add">
+      <option name="closed" value="true" />
+      <created>1747817827653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747817827653</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added">
+      <option name="closed" value="true" />
+      <created>1747822946703</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747822946703</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added">
+      <option name="closed" value="true" />
+      <created>1747823117045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747823117045</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nested if">
+      <option name="closed" value="true" />
+      <created>1747902567097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747902567097</updated>
+    </task>
+    <task id="LOCAL-00007" summary="random module">
+      <option name="closed" value="true" />
+      <created>1747909846227</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747909846227</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added">
+      <option name="closed" value="true" />
+      <created>1748242691087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748242691087</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added">
+      <option name="closed" value="true" />
+      <created>1748276631890</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748276631890</updated>
+    </task>
+    <task id="LOCAL-00010" summary="game">
+      <option name="closed" value="true" />
+      <created>1749716513876</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749716513876</updated>
+    </task>
+    <task id="LOCAL-00011" summary="exe">
+      <option name="closed" value="true" />
+      <created>1749750177774</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749750177774</updated>
+    </task>
+    <task id="LOCAL-00012" summary="exe">
+      <option name="closed" value="true" />
+      <created>1749751967841</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749751967841</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +225,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="nested if" />
+    <MESSAGE value="random module" />
+    <MESSAGE value="added" />
+    <MESSAGE value="game" />
+    <MESSAGE value="exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="exe" />
   </component>
 </project>
